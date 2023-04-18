@@ -1,0 +1,176 @@
+{
+  "id": "DarkHeresySecnodGear",
+  "title": "Сборник для DH2",
+  "description": "<p>Сборник предметов для Dark Heresy 2</p>",
+  "authors": [
+    {
+      "name": "Daster",
+      "flags": {}
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "packs": [
+    {
+      "label": "Бонусы родного мира",
+      "type": "Item",
+      "name": "nativeWorldBonuse",
+      "path": "packs/nativeWorldBonuse.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Бонусы предыстории",
+      "type": "Item",
+      "name": "backstoryBonuse",
+      "path": "packs/backstoryBonuse.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Бонусы роли",
+      "type": "Item",
+      "name": "roleBonuse",
+      "path": "packs/roleBonuse.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Склонности",
+      "type": "Item",
+      "name": "aptitude",
+      "path": "packs/aptitude.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Таланты",
+      "type": "Item",
+      "name": "talent",
+      "path": "packs/talent.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Черты",
+      "type": "Item",
+      "name": "trait",
+      "path": "packs/trait.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Психические силы",
+      "type": "Item",
+      "name": "psychicPower",
+      "path": "packs/psychicPower.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Боеприпасы",
+      "type": "Item",
+      "name": "ammunition",
+      "path": "packs/ammunition.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Гранаты и взрывчатка",
+      "type": "Item",
+      "name": "grenadeAndExplosive",
+      "path": "packs/grenadeAndExplosive.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Дистанционное оружие",
+      "type": "Item",
+      "name": "rangedWeapon",
+      "path": "packs/rangedWeapon.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Защитное снаряжение",
+      "type": "Item",
+      "name": "protectiveGear",
+      "path": "packs/protectiveGear.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Инструменты",
+      "type": "Item",
+      "name": "tools",
+      "path": "packs/tools.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Кибернетика",
+      "type": "Item",
+      "name": "cybernetics",
+      "path": "packs/cybernetics.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Модификации оружия",
+      "type": "Item",
+      "name": "weaponModification",
+      "path": "packs/weaponModification.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Препараты и потребляемое",
+      "type": "Item",
+      "name": "drugAndConsumable",
+      "path": "packs/drugAndConsumable.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Рукопашное оружие",
+      "type": "Item",
+      "name": "meleeWeapon",
+      "path": "packs/meleeWeapon.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Снаряжение",
+      "type": "Item",
+      "name": "gear",
+      "path": "packs/gear.db",
+      "system": "dark-heresy",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
+  
